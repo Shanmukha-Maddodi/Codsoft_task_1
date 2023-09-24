@@ -13,6 +13,7 @@
 .navbar{
     display: flex;
     height: 67px;
+    list-style: none;
 }
 .navbar li{
     list-style: none;
